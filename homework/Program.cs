@@ -9,4 +9,4 @@ int product1 = a * b;
 //Console.WriteLine(product1);
 
 int result = product1 / sum;
-Console.WriteLine(result);
+Console.WriteLine(result);add
